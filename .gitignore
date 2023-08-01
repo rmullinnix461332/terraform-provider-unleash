@@ -1,0 +1,11 @@
+.terraform
+*.tfstate*
+terraform-provider-unleash
+*.tf
+*.log
+vendor/*
+/dist/
+*.key
+/keys/
+.DS_Store
+dist/
